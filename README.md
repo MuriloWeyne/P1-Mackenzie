@@ -1,4 +1,4 @@
-# Análise de Música e Popularidade no Spotify
+<h1> Análise de Música e Popularidade no Spotify </h1>
 
 <p>Repositório dedicado ao desenvolvimento do Projeto Aplicado I do curso de Ciência de Dados do Instituto Presbiteriano Mackenzie.</p>
 
@@ -13,3 +13,12 @@
 <h2>Contribuições</h2>
 
 <p>Através dessa análise, buscamos identificar padrões que podem ajudar artistas, produtores e empresas do setor a otimizar suas estratégias de criação musical e alcançar um público maior e mais engajado.</p>
+
+<h3>To-do-list de outras seções</h3>
+
+<ul>
+  <li>Instalação</li>
+  <li>Configuração do Ambiente</li>
+  <li>Melhorias Futuras</li>
+  <li>Agradecimentos</li>
+</ul>
