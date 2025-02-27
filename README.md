@@ -2,6 +2,10 @@
 
 <p>Repositório dedicado ao desenvolvimento do Projeto Aplicado I do curso de Ciência de Dados do Instituto Presbiteriano Mackenzie.</p>
 
+<h2>Membros do Projeto</h2>
+
+Murilo Prado Weyne
+
 <h2>Objetivo</h2>
 
 <p>Neste projeto, o objetivo é realizar uma análise de dados sobre faixas musicais no Spotify para entender como características como dançabilidade, tempo (BPM), volume, energia e outros fatores influenciam a popularidade das músicas na plataforma.</p>
