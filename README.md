@@ -14,7 +14,7 @@
 
 <p>Através dessa análise, buscamos identificar padrões que podem ajudar artistas, produtores e empresas do setor a otimizar suas estratégias de criação musical e alcançar um público maior e mais engajado.</p>
 
-<h3>To-do-list de outras seções</h3>
+<h2>To-do-list de outras seções</h2>
 
 <ul>
   <li>Instalação</li>
